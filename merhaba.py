@@ -11,7 +11,7 @@ import random
 import base64
 
 # Gizli zaman damgası - merklı olanlar decode etsin
-gizli_zaman_damgasi = "b3pndXLDbMO8ayBoZXIgxZ9leWRlbiDDtnNlbSBtw6xkaXI="
+gizli_zaman_damgasi = "w7Z6Z8O8cmzDvGsgaGVyIMWfZXlkZW4gw7ZuZW1saWRpcg=="
 
 def yavas_yaz(metin, min_gecikme=0.05, max_gecikme=0.3):
     """Her harfi yavaş yavaş yazar, çünkü gelecekten sinyal zayıf."""
